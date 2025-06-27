@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "content": "Welcome to the blog!",
+      "author": "Hillary"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "content": "Here's another update.",
+      "author": "Hillary"
+    },
+    {
+      "id": "97e1",
+      "title": "Politics",
+      "content": " Maandamno watu wengi sana waliuawa",
+      "author": "Hillary"
+    },
+    {
+      "id": "d3bc",
+      "title": "Education",
+      "content": "No more schools are being built",
+      "author": "George"
+    }
+  ]
+}
